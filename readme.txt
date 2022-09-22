@@ -1,0 +1,1 @@
+This software is supported in Windows 10 OS.
