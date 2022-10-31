@@ -1,3 +1,0 @@
-Aimag_QC SOURCE CODE Version 4.2 August 2020.
-Copyright (c) 2019 Laurent Gole ,laurent.gole@aimaginostic.com.
-All rights reserved. No warranty, explicit or implicit, provided. In no event shall the author be liable for any claim or damages.
